@@ -9,7 +9,7 @@ h1{
   color: #66BFBF;
   font-size: 5.625rem;
   line-height: 2;
-  margin-top: 1em auto 0 auto;
+  margin-top: 3.125rem auto 0 auto;
   font-family: 'Sacramento', cursive;
 
 }
@@ -19,7 +19,7 @@ h2{
   font-family: 'Montserrat', sans-serif;
   font-size: 2.5rem;
   font-weight: normal;
-  padding-bottom: 0.2em;
+  padding-bottom: 0.625rem;
 }
 
 h3{
@@ -38,13 +38,13 @@ hr{
   border: dotted #11999E 0.12em;
   border-bottom: none;
   width: 4%;
-  margin: 2em auto;
+  margin: 6.25rem auto;
 }
 
 a{
   color: #11999E;
   font-family: 'Montserrat', sans-serif;
-  margin: 10px 20px;
+  margin: 0.2em 0.24em;
   text-decoration: none;
 
 }
