@@ -30,15 +30,14 @@ h3{
 p{
   line-height: 2;
   font-family: 'Montserrat', sans-serif;
-  font-size: 1.75rem;
-
+  font-size: 2rem;
 }
 
 hr{
-  border: dotted #11999E 0.12em;
+  border: dotted #11999E 0.625rem;
   border-bottom: none;
   width: 4%;
-  margin: 6.25rem auto;
+  margin: 6.125rem auto;
 }
 
 a{
