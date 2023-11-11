@@ -109,17 +109,22 @@ a:hover{
   bottom: 300px;
 }
 
-.code-img{
-  width: 25%;
-  float:left;
-  margin-right: 30px;
+.img {
+  width: 45%;
+  
+}
+
+.left{
+  height: 200px;
+  float: left;
+  margin-right: 50px;
 }
 
 
-.belt-img{
+.right{
   width: 25%;
   float: right;
-  margin-left: 30px;
+  margin-left: 50px;
 }
 
 .copyright-info{
