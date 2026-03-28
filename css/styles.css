@@ -311,8 +311,7 @@ textarea {
     .sec-pad {
       padding: 8rem 0; } }
 
-.active{
-}
+.carousel-item { height: 200px; }
 
 .text-primary {
   color: #fff;
