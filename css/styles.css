@@ -311,7 +311,10 @@ textarea {
     .sec-pad {
       padding: 8rem 0; } }
 
-.carousel-item { height: 200px; }
+.carousel-item { 
+	height: 200px; 
+	display: inline-block;
+}
 
 .text-primary {
   color: #fff;
