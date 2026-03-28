@@ -311,6 +311,9 @@ textarea {
     .sec-pad {
       padding: 8rem 0; } }
 
+.active{
+}
+
 .text-primary {
   color: #fff;
   font-size: 2.2rem;
