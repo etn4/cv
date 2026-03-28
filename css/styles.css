@@ -311,6 +311,11 @@ textarea {
     .sec-pad {
       padding: 8rem 0; } }
 
+#carouselExampleSlidesOnly {
+	position: relative;
+	overflow: hidden;
+}
+
 .carousel-item { 
 	height: 200px; 
 	display: inline-block;
